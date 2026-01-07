@@ -1,4 +1,4 @@
-# Radio Stream
+# the ffmpeg-youtube-goon project
 
 24/7 YouTube radio stream with glitch video effects and dynamic track info overlay.
 
