@@ -6,7 +6,7 @@ i run this personally at https://youtube.com/@thecollabagepatch sometimes.
 
 what it looks like here:
 
-https://www.youtube.com/watch?v=10HhjlhGHbo
+https://youtu.be/10HhjlhGHbo
 
 ## Quick Start
 
