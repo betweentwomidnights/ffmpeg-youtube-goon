@@ -1,0 +1,36 @@
+# Environment variables (contains stream keys)
+.env
+
+# Dependencies
+node_modules/
+
+# Runtime files
+audio_pipe
+title.txt
+description.txt
+special-last-played.json
+
+# Test output
+test-output/
+
+# Audio files (keep folder structure, ignore actual audio)
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+*.m4a
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
