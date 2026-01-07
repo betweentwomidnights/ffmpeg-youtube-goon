@@ -2,6 +2,10 @@
 
 24/7 YouTube radio stream with glitch video effects and dynamic track info overlay.
 
+i run this personally at https://youtube.com/@thecollabagepatch sometimes. 
+
+https://youtube.com/live/kQDnhdkq0W4?feature=share
+
 ## Quick Start
 
 ```bash
