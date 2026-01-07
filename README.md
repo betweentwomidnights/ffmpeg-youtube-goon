@@ -8,6 +8,10 @@ what it looks like here:
 
 https://youtu.be/10HhjlhGHbo
 
+personal record for up-time: 175hrs
+
+![175 hrs](image.png)
+
 ## Quick Start
 
 ```bash
